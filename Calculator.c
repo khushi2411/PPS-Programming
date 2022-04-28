@@ -56,7 +56,7 @@ int main()
             printf (" Division of %d and %d is: %.2f", n1, n2, res);  
             break;  
         default:  /* use default to print default message if any condition is not satisfied */  
-            printf (" Something is wrong!! Please check the options ");               
+            printf (" Something is wrong!");               
     }  
     return 0;  
 }
